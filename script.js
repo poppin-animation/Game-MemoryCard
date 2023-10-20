@@ -34,6 +34,8 @@ const emojis = ["=)","=)", "=(", "=(", "=O", "=O", "T_T", "T_T", "=V", "=V", "=_
                     // Refresh the page
                     txt = "let's go!";
                     location.reload();
+                //the good thing is that it reloads. The bad thing is that I can´t COUNT how many times I have won !   
+
                 }else {
                  txt = "You pressed Cancel!";
                 }
